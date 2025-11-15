@@ -1,0 +1,61 @@
+2025-03-12 16:36:15 スクリプト開始
+2025-03-12 16:36:15 スクリプト開始
+2025-03-12 16:36:16 取得したコンテンツID: ['A1005377', 'A1005402', 'A1005403']
+2025-03-12 16:36:16 取得したコンテンツID: ['A1005377', 'A1005402', 'A1005403']
+2025-03-12 16:36:16 ====== WebDriver manager ======
+2025-03-12 16:36:20 Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-12 16:36:20 Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-12 16:36:20 Driver [C:\Users\10005898\.wdm\drivers\edgedriver\win64\134.0.3124.51\msedgedriver.exe] found in cache
+2025-03-12 16:36:22 ログイン処理中にエラーが発生しました: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="userId"]"}
+  (Session info: MicrosoftEdge=134.0.3124.51); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7148AA7D5+20677]
+	simdutf::get_active_implementation [0x00007FF714806F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF714AFDC8A+1807418]
+	(No symbol) [0x00007FF7146472AC]
+	(No symbol) [0x00007FF71464758B]
+	(No symbol) [0x00007FF7146885A7]
+	(No symbol) [0x00007FF71466849F]
+	(No symbol) [0x00007FF71463D6ED]
+	(No symbol) [0x00007FF714685D61]
+	(No symbol) [0x00007FF7146681C3]
+	(No symbol) [0x00007FF71463CC36]
+	(No symbol) [0x00007FF71463C0C4]
+	(No symbol) [0x00007FF71463CA63]
+	(No symbol) [0x00007FF7147258DD]
+	(No symbol) [0x00007FF714731D42]
+	(No symbol) [0x00007FF71472A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7149847DA+262026]
+	simdutf::get_active_implementation [0x00007FF7148146B1+547745]
+	simdutf::get_active_implementation [0x00007FF71480D964+519764]
+	simdutf::get_active_implementation [0x00007FF71480DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF7147FF656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+2025-03-12 16:36:22 ログイン処理中にエラーが発生しました: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="userId"]"}
+  (Session info: MicrosoftEdge=134.0.3124.51); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7148AA7D5+20677]
+	simdutf::get_active_implementation [0x00007FF714806F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF714AFDC8A+1807418]
+	(No symbol) [0x00007FF7146472AC]
+	(No symbol) [0x00007FF71464758B]
+	(No symbol) [0x00007FF7146885A7]
+	(No symbol) [0x00007FF71466849F]
+	(No symbol) [0x00007FF71463D6ED]
+	(No symbol) [0x00007FF714685D61]
+	(No symbol) [0x00007FF7146681C3]
+	(No symbol) [0x00007FF71463CC36]
+	(No symbol) [0x00007FF71463C0C4]
+	(No symbol) [0x00007FF71463CA63]
+	(No symbol) [0x00007FF7147258DD]
+	(No symbol) [0x00007FF714731D42]
+	(No symbol) [0x00007FF71472A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7149847DA+262026]
+	simdutf::get_active_implementation [0x00007FF7148146B1+547745]
+	simdutf::get_active_implementation [0x00007FF71480D964+519764]
+	simdutf::get_active_implementation [0x00007FF71480DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF7147FF656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+

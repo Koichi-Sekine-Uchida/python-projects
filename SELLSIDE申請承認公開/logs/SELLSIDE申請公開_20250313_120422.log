@@ -1,0 +1,341 @@
+2025-03-13 12:04:22 スクリプト開始
+2025-03-13 12:04:24 取得したコンテンツID: ['Z9002872', 'Z9002952', 'XX000318', 'ZZ003754', 'ZZ004281', 'ZZ005952', 'ZZ008396', 'ZZ008733']
+2025-03-13 12:04:40 ログイン成功
+2025-03-13 12:04:43 検索条件入力完了: Z9002872
+2025-03-13 12:04:51 詳細ウィンドウが表示されました。
+2025-03-13 12:04:54 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:04:56 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:04:58 【申請】ボタンをクリックしました。
+2025-03-13 12:05:20 Error: 【申請】ボタンの押下に失敗しました。 次の【承認】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:05:20 【承認】ボタンをクリックしました。
+2025-03-13 12:05:43 Error: 【承認】ボタンの押下に失敗しました。 次の【公開】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:05:43 【公開】ボタンをクリックしました。
+2025-03-13 12:06:05 Error: 【公開】ボタンの押下に失敗しました。 サブウィンドウを閉じ、検索画面に戻ります。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:06:05 詳細ウィンドウを閉じました。
+2025-03-13 12:06:05 検索画面に戻りました。
+2025-03-13 12:06:07 処理完了: Z9002872
+2025-03-13 12:06:09 完了: Z9002872
+2025-03-13 12:06:11 検索条件入力完了: Z9002952
+2025-03-13 12:06:20 詳細ウィンドウが表示されました。
+2025-03-13 12:06:21 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:06:23 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:06:25 【申請】ボタンをクリックしました。
+2025-03-13 12:06:48 Error: 【申請】ボタンの押下に失敗しました。 次の【承認】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:06:48 【承認】ボタンをクリックしました。
+2025-03-13 12:07:10 Error: 【承認】ボタンの押下に失敗しました。 次の【公開】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:07:10 【公開】ボタンをクリックしました。
+2025-03-13 12:07:32 Error: 【公開】ボタンの押下に失敗しました。 サブウィンドウを閉じ、検索画面に戻ります。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:07:32 詳細ウィンドウを閉じました。
+2025-03-13 12:07:33 検索画面に戻りました。
+2025-03-13 12:07:35 処理完了: Z9002952
+2025-03-13 12:07:37 完了: Z9002952
+2025-03-13 12:07:39 検索条件入力完了: XX000318
+2025-03-13 12:07:47 詳細ウィンドウが表示されました。
+2025-03-13 12:07:48 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:07:50 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:07:52 【申請】ボタンをクリックしました。
+2025-03-13 12:08:15 Error: 【申請】ボタンの押下に失敗しました。 次の【承認】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:08:15 【承認】ボタンをクリックしました。
+2025-03-13 12:08:37 Error: 【承認】ボタンの押下に失敗しました。 次の【公開】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:08:37 【公開】ボタンをクリックしました。
+2025-03-13 12:08:59 Error: 【公開】ボタンの押下に失敗しました。 サブウィンドウを閉じ、検索画面に戻ります。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78181A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF781776F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF781A6DC8A+1807418]
+	(No symbol) [0x00007FF7815B72AC]
+	(No symbol) [0x00007FF7815B758B]
+	(No symbol) [0x00007FF7815F85A7]
+	(No symbol) [0x00007FF7815D849F]
+	(No symbol) [0x00007FF7815AD6ED]
+	(No symbol) [0x00007FF7815F5D61]
+	(No symbol) [0x00007FF7815D81C3]
+	(No symbol) [0x00007FF7815ACC36]
+	(No symbol) [0x00007FF7815AC0C4]
+	(No symbol) [0x00007FF7815ACA63]
+	(No symbol) [0x00007FF7816958DD]
+	(No symbol) [0x00007FF7816A1D42]
+	(No symbol) [0x00007FF78169A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7818F47DA+262026]
+	simdutf::get_active_implementation [0x00007FF7817846B1+547745]
+	simdutf::get_active_implementation [0x00007FF78177D964+519764]
+	simdutf::get_active_implementation [0x00007FF78177DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF78176F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-13 12:08:59 詳細ウィンドウを閉じました。
+2025-03-13 12:08:59 検索画面に戻りました。
+2025-03-13 12:09:01 処理完了: XX000318
+2025-03-13 12:09:03 完了: XX000318
+2025-03-13 12:09:05 検索条件入力完了: ZZ003754
+2025-03-13 12:09:14 詳細ウィンドウが表示されました。
+2025-03-13 12:09:15 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:09:17 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:09:20 【申請】ボタンをクリックしました。
+2025-03-13 12:09:22 【申請】確認アラートのOKを押下しました。
+2025-03-13 12:09:25 【承認】ボタンをクリックしました。
+2025-03-13 12:09:27 【承認】確認アラートのOKを押下しました。
+2025-03-13 12:09:29 【公開】ボタンをクリックしました。
+2025-03-13 12:09:32 【公開】確認アラートのOKを押下しました。
+2025-03-13 12:09:34 詳細ウィンドウを閉じました。
+2025-03-13 12:09:34 検索画面に戻りました。
+2025-03-13 12:09:36 処理完了: ZZ003754
+2025-03-13 12:09:38 完了: ZZ003754
+2025-03-13 12:09:40 検索条件入力完了: ZZ004281
+2025-03-13 12:09:48 詳細ウィンドウが表示されました。
+2025-03-13 12:09:49 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:09:51 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:09:53 【申請】ボタンをクリックしました。
+2025-03-13 12:09:55 【申請】確認アラートのOKを押下しました。
+2025-03-13 12:09:59 【承認】ボタンをクリックしました。
+2025-03-13 12:10:01 【承認】確認アラートのOKを押下しました。
+2025-03-13 12:10:04 【公開】ボタンをクリックしました。
+2025-03-13 12:10:06 【公開】確認アラートのOKを押下しました。
+2025-03-13 12:10:08 詳細ウィンドウを閉じました。
+2025-03-13 12:10:08 検索画面に戻りました。
+2025-03-13 12:10:10 処理完了: ZZ004281
+2025-03-13 12:10:12 完了: ZZ004281
+2025-03-13 12:10:14 検索条件入力完了: ZZ005952
+2025-03-13 12:10:22 詳細ウィンドウが表示されました。
+2025-03-13 12:10:23 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:10:25 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:10:28 【申請】ボタンをクリックしました。
+2025-03-13 12:10:30 【申請】確認アラートのOKを押下しました。
+2025-03-13 12:10:33 【承認】ボタンをクリックしました。
+2025-03-13 12:10:35 【承認】確認アラートのOKを押下しました。
+2025-03-13 12:10:37 【公開】ボタンをクリックしました。
+2025-03-13 12:10:39 【公開】確認アラートのOKを押下しました。
+2025-03-13 12:10:41 詳細ウィンドウを閉じました。
+2025-03-13 12:10:41 検索画面に戻りました。
+2025-03-13 12:10:43 処理完了: ZZ005952
+2025-03-13 12:10:45 完了: ZZ005952
+2025-03-13 12:10:47 検索条件入力完了: ZZ008396
+2025-03-13 12:10:56 詳細ウィンドウが表示されました。
+2025-03-13 12:10:57 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:10:59 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:11:01 【申請】ボタンをクリックしました。
+2025-03-13 12:11:03 【申請】確認アラートのOKを押下しました。
+2025-03-13 12:11:07 【承認】ボタンをクリックしました。
+2025-03-13 12:11:09 【承認】確認アラートのOKを押下しました。
+2025-03-13 12:11:11 【公開】ボタンをクリックしました。
+2025-03-13 12:11:13 【公開】確認アラートのOKを押下しました。
+2025-03-13 12:11:15 詳細ウィンドウを閉じました。
+2025-03-13 12:11:15 検索画面に戻りました。
+2025-03-13 12:11:17 処理完了: ZZ008396
+2025-03-13 12:11:19 完了: ZZ008396
+2025-03-13 12:11:21 検索条件入力完了: ZZ008733
+2025-03-13 12:11:30 詳細ウィンドウが表示されました。
+2025-03-13 12:11:31 コンテンツ情報の修正ボタンをクリックしました。
+2025-03-13 12:11:33 コンテンツ情報修正後のアラートOKを押下しました。
+2025-03-13 12:11:35 【申請】ボタンをクリックしました。
+2025-03-13 12:11:37 【申請】確認アラートのOKを押下しました。
+2025-03-13 12:11:40 【承認】ボタンをクリックしました。
+2025-03-13 12:11:42 【承認】確認アラートのOKを押下しました。
+2025-03-13 12:11:45 【公開】ボタンをクリックしました。
+2025-03-13 12:11:47 【公開】確認アラートのOKを押下しました。
+2025-03-13 12:11:49 詳細ウィンドウを閉じました。
+2025-03-13 12:11:49 検索画面に戻りました。
+2025-03-13 12:11:51 処理完了: ZZ008733
+2025-03-13 12:11:53 完了: ZZ008733
+2025-03-13 12:11:55 全ての検索処理が完了しました。

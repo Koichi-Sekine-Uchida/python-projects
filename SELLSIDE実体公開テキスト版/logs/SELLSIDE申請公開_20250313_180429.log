@@ -1,0 +1,30 @@
+2025-03-13 18:04:29 スクリプト開始
+2025-03-13 18:04:29 取得したコンテンツID: ['B8008932', 'B8008933']
+2025-03-13 18:04:39 ログイン成功
+2025-03-13 18:04:39 Error processing content_id B8008932: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/form/table[1]/tbody/tr[1]/td[1]/input[3]"}
+  (Session info: MicrosoftEdge=134.0.3124.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF798E1A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF798D76F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF79906DC8A+1807418]
+	(No symbol) [0x00007FF798BB72AC]
+	(No symbol) [0x00007FF798BB758B]
+	(No symbol) [0x00007FF798BF85A7]
+	(No symbol) [0x00007FF798BD849F]
+	(No symbol) [0x00007FF798BAD6ED]
+	(No symbol) [0x00007FF798BF5D61]
+	(No symbol) [0x00007FF798BD81C3]
+	(No symbol) [0x00007FF798BACC36]
+	(No symbol) [0x00007FF798BAC0C4]
+	(No symbol) [0x00007FF798BACA63]
+	(No symbol) [0x00007FF798C958DD]
+	(No symbol) [0x00007FF798CA1D42]
+	(No symbol) [0x00007FF798C9A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF798EF47DA+262026]
+	simdutf::get_active_implementation [0x00007FF798D846B1+547745]
+	simdutf::get_active_implementation [0x00007FF798D7D964+519764]
+	simdutf::get_active_implementation [0x00007FF798D7DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF798D6F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+

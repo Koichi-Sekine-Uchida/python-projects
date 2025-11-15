@@ -1,0 +1,33 @@
+2025-03-12 16:30:56 スクリプト開始
+2025-03-12 16:30:56 取得したコンテンツID: ['A1005377', 'A1005402', 'A1005403']
+2025-03-12 16:30:56 ====== WebDriver manager ======
+2025-03-12 16:30:59 Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-12 16:31:00 Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-12 16:31:01 Driver [C:\Users\10005898\.wdm\drivers\edgedriver\win64\134.0.3124.51\msedgedriver.exe] found in cache
+2025-03-12 16:31:03 ログイン処理中にエラーが発生しました: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="userId"]"}
+  (Session info: MicrosoftEdge=134.0.3124.51); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF624E4A7D5+20677]
+	simdutf::get_active_implementation [0x00007FF624DA6F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF62509DC8A+1807418]
+	(No symbol) [0x00007FF624BE72AC]
+	(No symbol) [0x00007FF624BE758B]
+	(No symbol) [0x00007FF624C285A7]
+	(No symbol) [0x00007FF624C0849F]
+	(No symbol) [0x00007FF624BDD6ED]
+	(No symbol) [0x00007FF624C25D61]
+	(No symbol) [0x00007FF624C081C3]
+	(No symbol) [0x00007FF624BDCC36]
+	(No symbol) [0x00007FF624BDC0C4]
+	(No symbol) [0x00007FF624BDCA63]
+	(No symbol) [0x00007FF624CC58DD]
+	(No symbol) [0x00007FF624CD1D42]
+	(No symbol) [0x00007FF624CCA703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF624F247DA+262026]
+	simdutf::get_active_implementation [0x00007FF624DB46B1+547745]
+	simdutf::get_active_implementation [0x00007FF624DAD964+519764]
+	simdutf::get_active_implementation [0x00007FF624DADAA9+520089]
+	simdutf::get_active_implementation [0x00007FF624D9F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+

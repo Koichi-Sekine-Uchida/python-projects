@@ -1,0 +1,147 @@
+PS C:\tools\バックログ起票> python .\test2.py
+📋 カスタムフィールド一覧:
+[
+    {
+        "id": 40652,
+        "projectId": 51948,
+        "version": 1611301163000,
+        "typeId": 7,
+        "name": "CoNETSライセンス",
+        "description": "",
+        "required": true,
+        "useIssueType": true,
+        "applicableIssueTypes": [
+            450495,
+            450496
+        ],
+        "displayOrder": 2,
+        "allowAddItem": false,
+        "allowInput": true,
+        "items": [
+            {
+                "id": 1,
+                "name": "光村図書",
+                "displayOrder": 0
+            },
+            {
+                "id": 2,
+                "name": "啓林館",
+                "displayOrder": 1
+            },
+            {
+                "id": 3,
+                "name": "大日本図書",
+                "displayOrder": 2
+            },
+            {
+                "id": 4,
+                "name": "帝国書院",
+                "displayOrder": 3
+            },
+            {
+                "id": 5,
+                "name": "開隆堂出版",
+                "displayOrder": 4
+            },
+            {
+                "id": 6,
+                "name": "日本文教出版",
+                "displayOrder": 5
+            }
+        ]
+    },
+    {
+        "id": 40963,
+        "projectId": 51948,
+        "typeId": 4,
+        "version": 1611301163000,
+        "name": "ユーザ情報送付済",
+        "description": "",
+        "required": false,
+        "useIssueType": true,
+        "applicableIssueTypes": [
+            450448,
+            450457
+        ],
+        "displayOrder": 3,
+        "min": null,
+        "max": null,
+        "initialDate": {
+            "id": 1
+        }
+    },
+    {
+        "id": 40962,
+        "projectId": 51948,
+        "typeId": 4,
+        "version": 1611301163000,
+        "name": "証書発行済",
+        "description": "",
+        "required": false,
+        "useIssueType": true,
+        "applicableIssueTypes": [
+            450448,
+            450457
+        ],
+        "displayOrder": 4,
+        "min": null,
+        "max": null,
+        "initialDate": {
+            "id": 1
+        }
+    },
+    {
+        "id": 72497,
+        "projectId": 51948,
+        "typeId": 5,
+        "version": 1617002098000,
+        "name": "エッジ種別",
+        "description": "エッジ種別を選択してください",
+        "required": true,
+        "useIssueType": true,
+        "applicableIssueTypes": [
+            692971,
+            692972
+        ],
+        "displayOrder": 2147483646,
+        "allowAddItem": false,
+        "items": [
+            {
+                "id": 1,
+                "name": "受発注時登録",
+                "displayOrder": 0
+            },
+            {
+                "id": 2,
+                "name": "インターネットエッジ",
+                "displayOrder": 1
+            },
+            {
+                "id": 6,
+                "name": "インターネットエッジ(SSO)",
+                "displayOrder": 2
+            },
+            {
+                "id": 5,
+                "name": "ハイブリッドエッジ",
+                "displayOrder": 3
+            },
+            {
+                "id": 7,
+                "name": "ハイブリッドエッジ(SSO)",
+                "displayOrder": 4
+            },
+            {
+                "id": 3,
+                "name": "Liteエッジ",
+                "displayOrder": 5
+            },
+            {
+                "id": 4,
+                "name": "オンプレエッジ",
+                "displayOrder": 6
+            }
+        ]
+    }
+]
+PS C:\tools\バックログ起票>

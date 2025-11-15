@@ -1,0 +1,51 @@
+2025-03-18 13:38:06 スクリプト開始
+2025-03-18 13:38:06 取得したコンテンツID: ['A1010688', 'A1010689']
+2025-03-18 13:38:17 ログイン成功
+2025-03-18 13:38:21 検索条件入力完了: A1010688
+2025-03-18 13:38:29 詳細ウィンドウが表示されました。
+2025-03-18 13:38:29 初期メッセージが存在します: 商用環境にコンテンツが配置完了するまでは公開は行えません。
+2025-03-18 13:38:30 A1010688 の処理をスキップします。
+2025-03-18 13:38:30 検索条件入力完了: A1010689
+2025-03-18 13:38:38 詳細ウィンドウが表示されました。
+2025-03-18 13:38:38 初期ステータス: 申請中
+2025-03-18 13:38:38 【申請】ボタンは無効のためスキップします。
+2025-03-18 13:38:40 実体【承認】ボタンをクリックしました。
+2025-03-18 13:38:42 実体【承認】確認アラートのOKを押下しました。
+2025-03-18 13:38:44 承認押下後のステータス: 承認（公開前）
+2025-03-18 13:38:44 Error processing content_id A1010689: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=134.0.3124.72); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF78B9AA785+20677]
+	simdutf::get_active_implementation [0x00007FF78B906F30+492592]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF78BBFDC3A+1807418]
+	(No symbol) [0x00007FF78B70F1DC]
+	(No symbol) [0x00007FF78B70DE2F]
+	(No symbol) [0x00007FF78B70F5E1]
+	(No symbol) [0x00007FF78B702FFE]
+	(No symbol) [0x00007FF78B70145D]
+	(No symbol) [0x00007FF78B704DFC]
+	(No symbol) [0x00007FF78B704ECF]
+	(No symbol) [0x00007FF78B743471]
+	(No symbol) [0x00007FF78B76845A]
+	(No symbol) [0x00007FF78B73D6ED]
+	(No symbol) [0x00007FF78B73D5AD]
+	(No symbol) [0x00007FF78B768720]
+	(No symbol) [0x00007FF78B73D6ED]
+	(No symbol) [0x00007FF78B785D61]
+	(No symbol) [0x00007FF78B7681C3]
+	(No symbol) [0x00007FF78B73CC36]
+	(No symbol) [0x00007FF78B73C0C4]
+	(No symbol) [0x00007FF78B73CA63]
+	(No symbol) [0x00007FF78B8258DD]
+	(No symbol) [0x00007FF78B831D42]
+	(No symbol) [0x00007FF78B82A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF78BA8478A+262026]
+	simdutf::get_active_implementation [0x00007FF78B914661+547681]
+	simdutf::get_active_implementation [0x00007FF78B90D914+519700]
+	simdutf::get_active_implementation [0x00007FF78B90DA59+520025]
+	simdutf::get_active_implementation [0x00007FF78B8FF606+461574]
+	BaseThreadInitThunk [0x00007FFD40E67374+20]
+	RtlUserThreadStart [0x00007FFD4263CC91+33]
+
+2025-03-18 13:38:44 完了: A1010689
+2025-03-18 13:38:46 全ての検索処理が完了しました。

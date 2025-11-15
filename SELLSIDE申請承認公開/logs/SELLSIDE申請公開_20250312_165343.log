@@ -1,0 +1,91 @@
+2025-03-12 16:53:43 スクリプト開始
+2025-03-12 16:53:43 取得したコンテンツID: ['A1005377']
+2025-03-12 16:53:51 ログイン成功
+2025-03-12 16:53:55 検索条件入力完了: A1005377
+2025-03-12 16:54:03 詳細ウィンドウが表示されました。
+2025-03-12 16:54:03 【申請】ボタンをクリックしました。
+2025-03-12 16:54:25 Error: 【申請】ボタンの押下に失敗しました。 次の【承認】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C70EA7D5+20677]
+	simdutf::get_active_implementation [0x00007FF6C7046F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C733DC8A+1807418]
+	(No symbol) [0x00007FF6C6E872AC]
+	(No symbol) [0x00007FF6C6E8758B]
+	(No symbol) [0x00007FF6C6EC85A7]
+	(No symbol) [0x00007FF6C6EA849F]
+	(No symbol) [0x00007FF6C6E7D6ED]
+	(No symbol) [0x00007FF6C6EC5D61]
+	(No symbol) [0x00007FF6C6EA81C3]
+	(No symbol) [0x00007FF6C6E7CC36]
+	(No symbol) [0x00007FF6C6E7C0C4]
+	(No symbol) [0x00007FF6C6E7CA63]
+	(No symbol) [0x00007FF6C6F658DD]
+	(No symbol) [0x00007FF6C6F71D42]
+	(No symbol) [0x00007FF6C6F6A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C71C47DA+262026]
+	simdutf::get_active_implementation [0x00007FF6C70546B1+547745]
+	simdutf::get_active_implementation [0x00007FF6C704D964+519764]
+	simdutf::get_active_implementation [0x00007FF6C704DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF6C703F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-12 16:54:25 【承認】ボタンをクリックしました。
+2025-03-12 16:54:48 Error: 【承認】ボタンの押下に失敗しました。 次の【公開】ステージに進みます。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C70EA7D5+20677]
+	simdutf::get_active_implementation [0x00007FF6C7046F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C733DC8A+1807418]
+	(No symbol) [0x00007FF6C6E872AC]
+	(No symbol) [0x00007FF6C6E8758B]
+	(No symbol) [0x00007FF6C6EC85A7]
+	(No symbol) [0x00007FF6C6EA849F]
+	(No symbol) [0x00007FF6C6E7D6ED]
+	(No symbol) [0x00007FF6C6EC5D61]
+	(No symbol) [0x00007FF6C6EA81C3]
+	(No symbol) [0x00007FF6C6E7CC36]
+	(No symbol) [0x00007FF6C6E7C0C4]
+	(No symbol) [0x00007FF6C6E7CA63]
+	(No symbol) [0x00007FF6C6F658DD]
+	(No symbol) [0x00007FF6C6F71D42]
+	(No symbol) [0x00007FF6C6F6A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C71C47DA+262026]
+	simdutf::get_active_implementation [0x00007FF6C70546B1+547745]
+	simdutf::get_active_implementation [0x00007FF6C704D964+519764]
+	simdutf::get_active_implementation [0x00007FF6C704DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF6C703F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-12 16:54:48 【公開】ボタンをクリックしました。
+2025-03-12 16:55:10 Error: 【公開】ボタンの押下に失敗しました。 サブウィンドウを閉じ、検索画面に戻ります。 Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C70EA7D5+20677]
+	simdutf::get_active_implementation [0x00007FF6C7046F80+492656]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C733DC8A+1807418]
+	(No symbol) [0x00007FF6C6E872AC]
+	(No symbol) [0x00007FF6C6E8758B]
+	(No symbol) [0x00007FF6C6EC85A7]
+	(No symbol) [0x00007FF6C6EA849F]
+	(No symbol) [0x00007FF6C6E7D6ED]
+	(No symbol) [0x00007FF6C6EC5D61]
+	(No symbol) [0x00007FF6C6EA81C3]
+	(No symbol) [0x00007FF6C6E7CC36]
+	(No symbol) [0x00007FF6C6E7C0C4]
+	(No symbol) [0x00007FF6C6E7CA63]
+	(No symbol) [0x00007FF6C6F658DD]
+	(No symbol) [0x00007FF6C6F71D42]
+	(No symbol) [0x00007FF6C6F6A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6C71C47DA+262026]
+	simdutf::get_active_implementation [0x00007FF6C70546B1+547745]
+	simdutf::get_active_implementation [0x00007FF6C704D964+519764]
+	simdutf::get_active_implementation [0x00007FF6C704DAA9+520089]
+	simdutf::get_active_implementation [0x00007FF6C703F656+461638]
+	BaseThreadInitThunk [0x00007FFAA9157374+20]
+	RtlUserThreadStart [0x00007FFAA9C5CC91+33]
+
+2025-03-12 16:55:10 詳細ウィンドウを閉じました。
+2025-03-12 16:55:10 検索画面に戻りました。
+2025-03-12 16:55:12 処理完了: A1005377
+2025-03-12 16:55:14 完了: A1005377
+2025-03-12 16:55:16 全ての検索処理が完了しました。
